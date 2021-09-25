@@ -20,7 +20,6 @@ analytics skills through my major and courses. I’m also looking foward to coll
 ## 📩 Reach Me Out 📩
 - LinkedIn: [Farin Cyntiya Garini](https://www.linkedin.com/in/farin-cyntiya-garini)
 - Instagram: [farincyntiyaa](https://www.instagram.com/farincyntiyaa/)
-- Notion: [Farin Cyntiya Garini](https://bit.ly/farincyntiyagarini)
 - Mail: farincyntiya@gmail.com
 
 
