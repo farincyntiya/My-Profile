@@ -1,4 +1,4 @@
-✨ Hello, there! Welcome to my GitHub! ✨
+# **✨ Hello, there! Welcome to my GitHub! ✨**
 
 📊 I'm Farin Cyntiya Garini, currently an undergraduate Statistics student at Padjadjaran University, Indonesia. 
 
@@ -6,6 +6,22 @@
 
 📚 I’m experienced in working with statistical softwares and I keep on passionately growing my data
 analytics skills through my major and courses. I’m also looking foward to collaborate on data science projects.
+
+---------------------------------------
+
+## 💻 Technologies I Used 💻
+- R
+- Python
+- Tableau
+- Microsoft Office
+
+---------------------------------------
+
+## 📩 Reach Me Out 📩
+- LinkedIn: [Farin Cyntiya Garini](https://www.linkedin.com/in/farin-cyntiya-garini)
+- Instagram: [farincyntiyaa](https://www.instagram.com/farincyntiyaa/)
+- Notion: [Farin Cyntiya Garini](https://bit.ly/farincyntiyagarini)
+- Mail: farincyntiya@gmail.com
 
 
 <!---
