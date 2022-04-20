@@ -26,7 +26,7 @@ analytics skills through my major and courses. I’m also looking foward to coll
 ---
   
 ### 📊 GitHub Stats 📊
-![Farin's GitHub stats](https://github-readme-stats.vercel.app/api?username=farincyntiya&show_icons=true&theme=radical)
+<a href="https://github.com/farincyntiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farincyntiya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Farin's GitHub Stats" /></a>  <a href="https://github.com/farincyntiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farincyntiya&layout=compact&theme=radical&hide_border=true" /></a> 
 
 <!---
 farincyntiya/farincyntiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
