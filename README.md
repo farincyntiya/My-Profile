@@ -1,4 +1,4 @@
-## ✨ Hello, there! Welcome to my GitHub! ✨
+<h2 align="center"> ✨ Hello, there! Welcome to my GitHub! ✨ </h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif">
@@ -13,24 +13,36 @@ analytics skills through my major and courses. I’m also looking foward to coll
 
 ---
 
-### 💻 Techonologies I Used 💻
-<a> <image src="https://img.shields.io/badge/-Python-246EC4?logo=Python&logoColor=white&style=flat&logoWidth=20"> </a>
-<a> <image src="https://img.shields.io/badge/-Rstudio-3AB1F3?logo=Rstudio&logoColor=white&style=flat&logoWidth=20"> </a>
-<a> <image src="https://img.shields.io/badge/-Tableau-A071E9?logo=Tableau&logoColor=white&style=flat&logoWidth=20"> </a>
-<a> <image src="https://img.shields.io/badge/-MySQL-FF9141?logo=MySQL&logoColor=white&style=flat&logoWidth=20"> </a>
-<a> <image src="https://img.shields.io/badge/-MicrosoftOffice-FF5241?logo=MicrosoftOffice&logoColor=white&style=flat&logoWidth=20"> </a>
-    
+<h3 align="center">📩 Connect with Me 📩</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/farin-cyntiya-garini">
+  <image src="https://img.shields.io/badge/-FarinCyntiyaGarini-10ADAA?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farin-cyntiya-garini/">
+    </a>
+  <a href="https://instagram.com/farincyntiyaa/">  
+  <image src="https://img.shields.io/badge/-@farincyntiyaa-F91684?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farincyntiyaa/">
+    </a>
+  <a href="mailto:farincyntiya@gmail.com">   
+  <image src="https://img.shields.io/badge/-farincyntiya@gmail.com-EEA12B?style=flat&logo=Gmail&logoColor=white&link=mailto:farincyntiya@gmail.com">
+    </a>
+</div>  
+
+---
+
+<h3 align="center">💻 Techonologies I Used 💻</h3>
+<div align="center">
+  <image src="https://img.shields.io/badge/-Python-246EC4?logo=Python&logoColor=white&style=flat&logoWidth=20">
+  <image src="https://img.shields.io/badge/-Rstudio-3AB1F3?logo=Rstudio&logoColor=white&style=flat&logoWidth=20">
+  <image src="https://img.shields.io/badge/-Tableau-A071E9?logo=Tableau&logoColor=white&style=flat&logoWidth=20">
+  <image src="https://img.shields.io/badge/-MySQL-FF9141?logo=MySQL&logoColor=white&style=flat&logoWidth=20">
+  <image src="https://img.shields.io/badge/-MicrosoftOffice-FF5241?logo=MicrosoftOffice&logoColor=white&style=flat&logoWidth=20">
+</div>
+   
 ---
     
-### 📩 Connect with Me 📩
-[![Linkedin](https://img.shields.io/badge/-FarinCyntiyaGarini-10ADAA?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farin-cyntiya-garini/)](https://www.linkedin.com/in/farin-cyntiya-garini)
-[![Instagram](https://img.shields.io/badge/-@farincyntiyaa-F91684?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farincyntiyaa/)](https://instagram.com/farincyntiyaa/)
-[![Gmail](https://img.shields.io/badge/-farincyntiya@gmail.com-EEA12B?style=flat&logo=Gmail&logoColor=white&link=mailto:farincyntiya@gmail.com)](mailto:farincyntiya@gmail.com)
-    
----
-  
-### 📊 GitHub Stats 📊
-<a href="https://github.com/farincyntiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farincyntiya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Farin's GitHub Stats" /></a>  <a href="https://github.com/farincyntiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farincyntiya&layout=compact&theme=radical&hide_border=true" /></a> 
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<div align="center">
+  <a href="https://github.com/farincyntiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=farincyntiya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Farin's GitHub Stats" /></a>  <a href="https://github.com/farincyntiya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farincyntiya&layout=compact&theme=radical&hide_border=true" /></a> 
+</div>
 
 <!---
 farincyntiya/farincyntiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
