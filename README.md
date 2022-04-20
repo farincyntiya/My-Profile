@@ -1,5 +1,9 @@
 ## ✨ Hello, there! Welcome to my GitHub! ✨
 
+<p align="center">
+  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif">
+</p>
+
 📊 I'm Farin, currently a third-year Statistics student at the Faculty of Mathematics and Natural Sciences, Padjadjaran University. 
 
 📚 I’m experienced in working with statistical softwares and I keep on passionately growing my data
