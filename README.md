@@ -15,14 +15,17 @@ analytics skills through my major and courses. I’m also looking foward to coll
 
 <h3 align="center">📩 Connect with Me 📩</h3>
 <div align="center">
+  <a href="mailto:farincyntiya@gmail.com">   
+  <image src="https://img.shields.io/badge/-farincyntiya@gmail.com-B60000?style=flat&logo=Gmail&logoColor=white&link=mailto:farincyntiya@gmail.com">
+    </a>  
   <a href="https://www.linkedin.com/in/farin-cyntiya-garini">
-  <image src="https://img.shields.io/badge/-FarinCyntiyaGarini-10ADAA?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farin-cyntiya-garini/">
+  <image src="https://img.shields.io/badge/-FarinCyntiyaGarini-004E9C?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farin-cyntiya-garini/">
     </a>
   <a href="https://instagram.com/farincyntiyaa/">  
-  <image src="https://img.shields.io/badge/-@farincyntiyaa-F91684?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farincyntiyaa/">
+  <image src="https://img.shields.io/badge/-@farincyntiyaa-D83684?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/farincyntiyaa/">
     </a>
-  <a href="mailto:farincyntiya@gmail.com">   
-  <image src="https://img.shields.io/badge/-farincyntiya@gmail.com-EEA12B?style=flat&logo=Gmail&logoColor=white&link=mailto:farincyntiya@gmail.com">
+  <a href="https://medium.com/@farincyntiya">   
+  <image src="https://img.shields.io/badge/-farincyntiya-009BA9?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@farincyntiya">
     </a>
 </div>  
 
@@ -33,7 +36,7 @@ analytics skills through my major and courses. I’m also looking foward to coll
   <image src="https://img.shields.io/badge/-Python-246EC4?logo=Python&logoColor=white&style=flat&logoWidth=20">
   <image src="https://img.shields.io/badge/-Rstudio-3AB1F3?logo=Rstudio&logoColor=white&style=flat&logoWidth=20">
   <image src="https://img.shields.io/badge/-Tableau-A071E9?logo=Tableau&logoColor=white&style=flat&logoWidth=20">
-  <image src="https://img.shields.io/badge/-MySQL-FF9141?logo=MySQL&logoColor=white&style=flat&logoWidth=20">
+  <image src="https://img.shields.io/badge/-MySQL-FF6D00?logo=MySQL&logoColor=white&style=flat&logoWidth=20">
   <image src="https://img.shields.io/badge/-MicrosoftOffice-FF5241?logo=MicrosoftOffice&logoColor=white&style=flat&logoWidth=20">
 </div>
    
