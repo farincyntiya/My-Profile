@@ -33,11 +33,21 @@ analytics skills through my major and courses. I’m also looking foward to coll
 
 <h3 align="center">💻 Techonologies I Used 💻</h3>
 <div align="center">
+  <a href="https://www.python.org/">   
   <image src="https://img.shields.io/badge/-Python-246EC4?logo=Python&logoColor=white&style=flat&logoWidth=20">
-  <image src="https://img.shields.io/badge/-Rstudio-3AB1F3?logo=Rstudio&logoColor=white&style=flat&logoWidth=20">
+    </a> 
+  <a href="https://www.rstudio.com/">  
+  <image src="https://img.shields.io/badge/-Rstudio-3AB1F3?logo=Rstudio&logoColor=white&style=flat&logoWidth=20">    
+    </a> 
+  <a href="https://public.tableau.com/app/profile/farin.cyntiya.garini">  
   <image src="https://img.shields.io/badge/-Tableau-A071E9?logo=Tableau&logoColor=white&style=flat&logoWidth=20">
+    </a> 
+  <a href="https://www.mysql.com/">  
   <image src="https://img.shields.io/badge/-MySQL-FF6D00?logo=MySQL&logoColor=white&style=flat&logoWidth=20">
+    </a> 
+  <a href="https://www.microsoft.com/id-id/microsoft-365/microsoft-office"> 
   <image src="https://img.shields.io/badge/-MicrosoftOffice-FF5241?logo=MicrosoftOffice&logoColor=white&style=flat&logoWidth=20">
+     </a>
 </div>
    
 ---
